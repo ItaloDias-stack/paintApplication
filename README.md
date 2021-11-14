@@ -1,2 +1,2 @@
 # Paint Application
-This is a Paint Application created using the library OpenCv in Python
+This is a simple Paint Application created using the library OpenCv in Python
